@@ -34,3 +34,6 @@ ne.networkScore(generation[x], <score = 0>);
 ```
 
 You can see the NeuroEvolution integration in Flappy Bird in [Game.js](http://github.com/xviniette/FlappyLearning/blob/gh-pages/game.js).
+
+
+put the images in the img folder and then run...there are also various software that have to be installed before running the game
